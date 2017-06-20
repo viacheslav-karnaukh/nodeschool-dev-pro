@@ -2,10 +2,17 @@
 
 #### Example of usage
 
+##### Install dependencies:
+```sh
+npm install
+```
+
+##### Run:
 ```sh
 # bash
 node http_request
 ```
+or
 
 ```javascript
 // node
