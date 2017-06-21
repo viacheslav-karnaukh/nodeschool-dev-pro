@@ -40,4 +40,4 @@ const subscribeForWeather = ({
     () => console.log('--- Weather fetch completed ---')
 );
 
-module.exports = subscribeForWeather;
+module.exports = { subscribeForWeather };
