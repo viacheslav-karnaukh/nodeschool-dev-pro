@@ -1,0 +1,22 @@
+{
+  "name": "nodeschool-dev-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viacheslav-karnaukh/nodeschool-dev-pro.git"
+  },
+  "author": "Viacheslav Karnaukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viacheslav-karnaukh/nodeschool-dev-pro/issues"
+  },
+  "homepage": "https://github.com/viacheslav-karnaukh/nodeschool-dev-pro#readme",
+  "dependencies": {
+    "rxjs": "^5.4.1"
+  }
+}
